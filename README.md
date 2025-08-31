@@ -94,6 +94,9 @@ The project generates several types of visualizations:
 - **Overview Dashboard** - Comprehensive weather metrics
 - **City Comparison Charts** - Side-by-side city analysis
 - **Correlation Heatmaps** - Weather variable relationships
+- <img width="1489" height="1181" alt="weather analysis" src="https://github.com/user-attachments/assets/cc3ce69f-d643-46e6-9f00-a40706a2f4b7" />
+- <img width="1589" height="1180" alt="weather pattern and relationship" src="https://github.com/user-attachments/assets/0cd4dcc5-6c4d-4d85-99f4-317184c62283" />
+- <img width="1589" height="1181" alt="city_weather_comaprison" src="https://github.com/user-attachments/assets/13d73888-3a18-4f28-b34f-7b031cba7204" />
 
 ## 📋 Dataset Information
 - **Source**: Weather data for 8 cities in 2024
